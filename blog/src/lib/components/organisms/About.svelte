@@ -169,6 +169,27 @@
 
 	<br />
 
+	<section id="about" style="text-align: justify;">
+		<div class="info">
+			<h2 style="text-align: center;">
+				<SparklingHighlight color="secondary">Some Explanation about the Unessay</SparklingHighlight>
+			</h2>
+	
+			<p>
+				The unessay 1 itself is the website the texts above are in. This is a website that was deployed using vercel so anyone can view them by using the correct link. I chose a website for my first unessay since I wanted to collect my outputs to see my progress and insights along the course. I will put past unessays in the archive section of the website so that I can view it along with my journey. I also believe that creating an unessay unique to my character will help me appreciate the lessons I was able to partake. Just like how prompt 3 asked me how social science can help with my career, I attempted to combine the two with software development being one and the content being social science. The concepts being used in these topics is to share knowledge or how social science can go hand-in-hand with different disciplines to further develop the country. I do think that by making use of my personal skills along with social science, it will help me grow to appreciate the course and will help me remind me of the lessons I was able to learn. The main concepts being discussed inside the websites are some lessons on the differences of the three disciplines and basically some experience and insight as to how social science can help with common problems we experience.
+			</p>
+
+			<p>
+				This website is unfinished and will be further developed with more content as we progress with our course :). Note: Succeeding unessay will be different and will be just compiled in this website so the next unessay may be a poem or an infographic. I really just wanted to have a medium for compilation for my unessays and insights.
+			</p>
+
+		</div>
+	
+		<div class="image">
+			<Image src="/images/societal-image.png" alt="Sample for the static template" />
+		</div>
+	</section>
+
 	<div class="socials">
 		<span>Socials:</span>
 		<Socials />
