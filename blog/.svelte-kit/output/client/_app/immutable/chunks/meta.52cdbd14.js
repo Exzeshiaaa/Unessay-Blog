@@ -1,0 +1,1 @@
+const e="https://group4-symposium-society.vercel.app/",t=["Svelte","SvelteKit","Template","Blog","Starter","Static Site"],s="A compilation of all the unessay James Adrian V. Perez submitted for the course of SocSci1",i="Socsci1-Unessay-Compilation",o=`${e}/images/site-preview.png`;export{s as d,o as i,t as k,e as s,i as t};
