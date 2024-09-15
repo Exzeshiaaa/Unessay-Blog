@@ -8,8 +8,8 @@
 
 <ContentSection
 	id="features"
-	title="Features"
-	description="Here are some of the features of this template"
+	title="Contributors"
+	description="Here are the members of the group!"
 >
 	<div class="features-container">
 		<div class="three-group-grid">

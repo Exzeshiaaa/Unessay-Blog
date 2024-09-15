@@ -2,7 +2,7 @@
 // So they can be added as suffixes on different pages
 // Via <svelte:head>
 
-export const siteBaseUrl = 'https://sveltekit-static-blog-template.vercel.app/';
+export const siteBaseUrl = 'https://group4-symposium-society.vercel.app/';
 
 export const keywords = [
 	'Svelte',
@@ -14,8 +14,8 @@ export const keywords = [
 ];
 
 export const description =
-	"A light, neat, and easy-to-use SvelteKit template for your next website.";
+	"A compilation of all the unessay James Adrian V. Perez submitted for the course of SocSci1";
 
-export const title = 'SvelteKit Static Blog Template';
+export const title = 'Socsci1-Unessay-Compilation';
 
 export const image = `${siteBaseUrl}/images/site-preview.png`;

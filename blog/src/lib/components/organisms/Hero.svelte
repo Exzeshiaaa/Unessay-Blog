@@ -6,22 +6,27 @@
 </script>
 
 <section id="hero">
-	<h1 class="hello">This is a SvelteKit Static Blog Template!</h1>
+	<h1 class="hello">
+		This website discusses and compiles all the lessons and insights taken from the course SocSci1
+		in UP Diliman
+	</h1>
 	<p class="intro">
-		<span class="left">It supports Markdown,</span>
-		<span class="right">and is really fast.</span>
+		<span class="left"> Ranging from semantics and history,</span>
+		<span class="right">to real world problems and solutions!</span>
 	</p>
+	<br /><br />
+	<p>You can check out the code here!</p>
 	<div class="ctas">
 		<Sparkles>
-			<Button href="https://github.com/matfantinel/sveltekit-static-blog-template">
+			<Button href="https://github.com/Exzeshiaaa/Unessay-Blog">
 				<GitHubIcon slot="icon" />
 				Source Code
 			</Button>
 		</Sparkles>
-		<Button color="primary" href="https://histoire-sveltekit-static-blog-template.vercel.app/">
+		<!-- <Button color="primary" href="https://histoire-sveltekit-static-blog-template.vercel.app/">
 			<FeaturesIcon slot="icon" />
 			Components
-		</Button>
+		</Button> -->
 	</div>
 </section>
 

@@ -8,12 +8,11 @@
 
 <header class:has-background={showBackground}>
 	<nav class="container">
-		<a class="logo" href="/" aria-label="Site logo">
+		<a class="logo" href="/" aria-label="Site Logo">
 			<Logo />
 		</a>
 		<div class="links">
 			<a href="/blog">Blog</a>
-			<RssLink />
 			<ThemeToggle />
 		</div>
 	</nav>
